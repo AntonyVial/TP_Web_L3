@@ -1,0 +1,21 @@
+p{
+    color: blue;
+}
+.myHead{
+    color: red;
+    background-color: aquamarine;
+}
+.flexible{
+    color: brown;
+    width: 300px;
+    /*display: flex;*/
+    /*flex: ltr | rtl | ttb | btt;*/
+}
+diviseur{
+    display: flex;
+    /*flex-direction: column-reverse;*/
+}
+::placeholder{
+    color: darkslateblue;
+    font-size: 1.5 em;
+}
